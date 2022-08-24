@@ -15,8 +15,8 @@ trabalhamos com:
 ## manicure
 ### spa
 
--l
--**o do coleo walfredo
+-**localizado em arapongas-PR
+-**Perto do coleo walfredo
 
 1. Numbered
 2. List
