@@ -1,31 +1,31 @@
 ## Welcome pagina de make
 
-You can use the [editor on GitHub](https://github.com/mariazinhaleste/jurema-make/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/mariazinhaleste/jurema-make/edit/gh-pages/index.md) 
 
-caso tenha alguma  sugestão de sua opinião [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site.
+caso tenha alguma  sugestão de sua opinião 
 
 ### Markdown
 
 o site foi criado para suas melheres esperiencias.
 
 ```markdown
-Syntax highlighted code block
+trabalhamos com:
 
-# Header 1
-## Header 2
-### Header 3
+# make artisticas
+## manicure
+### spa
 
-- Bulleted
-- List
+- Localizado em Arapongas-PR,rua jurutal-980
+- Perto do colegio walfredo
 
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://harpersbazaar.uol.com.br/wp-content/uploads/2019/02/Kylie-cosmectics-olho-rosa.png) and ![Image](src)
 ```
-
+[Link](https://cdn0.casamentos.com.br/usr/0/4/0/3/cfb_1812995.jpg)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
